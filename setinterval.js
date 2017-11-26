@@ -1,4 +1,4 @@
-//Loop the code after specific time interval
+//Loop through the code after specific time interval
 var time = 0;
 var timer = setInterval(function(){
   time += 2;
